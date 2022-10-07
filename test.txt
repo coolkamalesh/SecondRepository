@@ -1,1 +1,3 @@
 This is a sample file. This file is updated from github.
+
+This file is updated to test merge of two brances.
